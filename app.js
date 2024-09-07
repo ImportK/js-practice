@@ -85,6 +85,6 @@ let lowerCasemyName = myName.toLowerCase();
 let myNameLength = myName.length;
 
 console.log(feedback);
-console.log("Uppercase Name " + upperCasemyName);
+console.log("Uppercase Name: " + upperCasemyName);
 console.log("Lowercase Name: " + lowerCasemyName);
 console.log("Name Length: " + myNameLength);
