@@ -1,3 +1,8 @@
+// Sample Code
+console.log('Hello, World!');
+let Name = "Kaye Janine M. Remigio"
+console.log('My name is ' + Name);
+
 // Variables
 let color = "Green"
 console.log(color)
